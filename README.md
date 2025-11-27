@@ -62,6 +62,7 @@ Me encanta crear aplicaciones modernas, funcionales y bien diseñadas, desde la 
       <img src="https://skillicons.dev/icons?i=git" height="40"/>
       <img src="https://skillicons.dev/icons?i=github" height="40"/>
       <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+      <img src="https://skillicons.dev/icons?i=notion" height="40"/>
       <img src="https://skillicons.dev/icons?i=postman" height="40"/>
     </td>
   </tr>
