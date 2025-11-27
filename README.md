@@ -90,7 +90,7 @@ Me encanta crear aplicaciones modernas, funcionales y bien diseñadas, desde la 
 
 # 📊 Actividad en GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiermaroto18&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
